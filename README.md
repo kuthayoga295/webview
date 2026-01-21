@@ -25,3 +25,5 @@ Chrome Custom Tabs fallback for external links.
 🔍 Built-in Search Bar: Intelligent address bar that recognizes URLs vs. Google search queries.
 
 🔙 Advanced Back Handling: Gracefully handles web history, full-screen video exit, and app closing.
+
+#AIGenerated
