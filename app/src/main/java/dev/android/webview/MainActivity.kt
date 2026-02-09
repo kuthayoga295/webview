@@ -178,7 +178,7 @@ fun HomeScreen(modifier: Modifier = Modifier) {
                                     icon,
                                     contentDescription = null,
                                     modifier = Modifier.size(20.dp),
-                                    tint = MaterialTheme.colorScheme.primary
+                                    tint = MaterialTheme.colorScheme.secondary
                                 )
                             }
                         }
